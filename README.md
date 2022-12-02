@@ -35,8 +35,8 @@
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/hasenat-eqbali)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/hasenat.eqbali)
+- GitHub: [Hasenat Eqbali](https://github.com/hasenat-eqbali)
+- LinkedIn: [Hasenat Eqbali](https://linkedin.com/in/hasenat-eqbali)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
